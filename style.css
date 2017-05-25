@@ -1,0 +1,144 @@
+
+*{
+	font-family: Arial;
+	f
+}
+.wrapper{
+	width: 1000px;
+	height: 600px;
+	background-color: #235174;
+}
+.textlink{
+	margin-left: 800px;
+	display:block;
+	vertical-align: top;
+	font color: white;
+	padding-top: 2px;
+
+
+}
+
+}
+.vertline{
+	border-left: thick solid black;
+	display: inline-block;
+	vertical-align: top;
+}
+}
+.textsize{
+	display: inline-block;
+	vertical-align: top;
+}
+.link1{
+	font color: yellow;
+}
+.logo{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 25px;
+	margin-right: 10px;
+}
+.search{
+	display: inline-block;
+	vertical-align: top;
+	background-color: black;
+	width: 200px;
+	height: 50px;
+	margin-left: 350px;
+	padding: 10px 30px 1px 20px;
+	border-radius: 10px;
+
+}
+.button {
+    background-color: #407d61; /* Green */
+    border: 1px solid black;
+    color: white;
+    padding: 5px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    vertical-align: bottom;
+    border-radius: 4px;
+    font-size: 16px;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+    /*margin-left: 85px;*/
+}
+
+.navbar{
+	background-color: #3d7aa9;
+	width: 900px;
+	height: 80px;
+	margin-right: 40px;
+	margin-left: 50px;
+	border-radius: 10px;
+
+}
+.navbutton{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 40px;
+	font-size: 24px;
+	font color: white;
+}
+.linklist{
+	display: inline-block;
+	vertical-align: top;
+	text-align: center;
+	width: 200px;
+	margin-left: 75px;
+}
+
+.maincontent{
+	width: 600px;
+	text-align: center;
+	margin-left: 25px;
+	display: inline-block;
+	vertical-align: top;
+}
+.quotes{
+	width: 600px;
+	text-align: center;
+	margin-left: 25px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.whitebox{
+	width: 1000px;
+	height: 100px;
+	background-color: white;
+	display: inline;
+	vertical-align: top;
+}
+.blueline{
+	height: 5px
+	width: 300px;
+	display: inline-block;
+	vertical-align: top;
+	color: blue;
+
+}
+.infoblock{
+	width: 400px;
+	margin-left: 50px;
+	text-align: center;
+	display: inline-block;
+	vertical-align: top;
+	border-top: 6px solid blue;
+	margin-top: 10px;
+
+}
+.footer{
+	vertical-align: top;
+	width: 1000px
+	height: px;
+	background: linear-gradient(#235174, #3275a8);
+	text-align: center;
+
+}
+.bottomlinks{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 125px;
+	margin-top: 75px;
+}

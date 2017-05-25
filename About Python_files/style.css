@@ -1,0 +1,46 @@
+
+*{
+	font-family: Arial;
+	font color: white;
+}
+.wrapper{
+	width: 1000px;
+	height: 500px;
+	background-color: #235174;
+}
+.textlink{
+	margin-left: 800px;
+	display: inline-block;
+	vertical-align: top;
+	font color: white;
+
+
+}
+
+}
+.vertline{
+	border-left: thick solid black;
+	display: inline-block;
+	vertical-align: top;
+}
+}
+.textsize{
+	display: inline-block;
+	vertical-align: top;
+}
+.link1{
+	font color: yellow;
+}
+.logo{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 25px;
+}
+.search{
+	display: inline-block;
+	vertical-align: top;
+	color: black;
+	width: 350;
+	height: 150;
+
+}
